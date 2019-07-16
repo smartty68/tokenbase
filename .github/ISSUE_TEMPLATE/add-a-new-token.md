@@ -22,16 +22,16 @@ Got questions? Join
 -->
 
 **Token address:**
-
+0x6ff313fb38d53d7a458860b1bf7512f54a03e968
 
 **Issuer's official website:**
-
+https://www.merocurrency.com
 
 **Description:** <!-- 1-3 sentences for the token's description: at least one on the token issuer (eg., the product they are building) and one on token's purpose. -->
-
+Mass Adoption, One Donation At A Time
 
 **A link to the official contract address confirmation:** <!-- Contract address confirmation MUST be linked from the official website and MUST be visible publicly. If the confirmation is not visible immediately, include an explanation of how to find it. -->
-
+https://www.merocurrency.com
 
 **At least 2 links to third-party reviews or discussion of the token, the project/product, or the token issuer:**
 <!--
@@ -42,5 +42,5 @@ Note:
 * We are looking for substance in reviews. BitcoinTalk announcements and ICO aggregator pages are NOT an acceptable source. Reviews like "Interesting project, good luck", "to the moon" are NOT acceptable.
 * Project's social media channels (Reddit, Twitter, Facebook, Telegram and others) are not acceptable.
 -->
-1. 
-2.
+1. https://icoholder.com/en/mero-currency-30466
+2. https://bitcointalk.org/index.php?topic=5151210.0
